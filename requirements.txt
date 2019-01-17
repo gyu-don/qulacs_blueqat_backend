@@ -1,0 +1,2 @@
+blueqat~=0.3.2
+qulacs~=0.1.0
